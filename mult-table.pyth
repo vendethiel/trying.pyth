@@ -1,0 +1,5 @@
+VTVTp+*hNhHd)pb
+"Loop 0..^10 (10 excluded), loop again from 0..^10, print the product from both loop variables plus a space, close inner loop; print newline (in the outer loop)"
+
+JdjmjJm*kdSTST
+"Set J=d (because m overrides d), then maps ST (1..10), inside, J (join newline) a mapping of 1..10, where we multiply outer loop variable with the inner one"
