@@ -3,3 +3,6 @@ VTVTp+*hNhHd)pb
 
 JdjmjJm*kdSTST
 "Set J=d (because m overrides d), then maps ST (1..10), inside, J (join newline) a mapping of 1..10, where we multiply outer loop variable with the inner one"
+
+VTL*hNbjdyMT
+"Loop N in 0..^10, define a lambda that's N+1*lambda_arg, then apply this function in the range 1..10, and join the result with space"
