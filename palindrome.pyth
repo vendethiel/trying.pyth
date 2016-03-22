@@ -1,2 +1,5 @@
 J-rz0-zGqJ_J
 "assign to J z lowercased, with removed every character outside of G (alphabet) in z (only keeps alpha). then compare J with its reversed counterpart"
+
+J-rz0-zG_IJ
+"Same, but to compare, uses the invariant (I) which checks that B (to its right) is the same when passed through A (pfn, to its left)"
