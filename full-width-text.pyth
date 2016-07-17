@@ -1,0 +1,2 @@
+s*d
+"multiply input (implicit "Q") with space ("d"), then join ("s") (this generates a leading space)"
