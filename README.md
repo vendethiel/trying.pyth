@@ -1,3 +1,3 @@
 # trying.pyth
 
-Pyth is an imperative, cool golfing language.
+Pyth is an imperative, cool, "pseudo-functional" golfing language.
