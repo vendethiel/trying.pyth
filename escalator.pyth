@@ -1,0 +1,8 @@
+j*L\#S
+
+
+
+     S (implicit Q) generate 1..Q range
+  L    for each value in that range
+ * \#  repeat # that value
+j      join with newline
